@@ -72,15 +72,6 @@ Mes dépôts sont en grande partie privés : je détaille ici ce que j'ai réali
 | [**Rambl**](https://github.com/Ramble-cstjean) | Application de clavardage de bureau pour discuter entre amis et partenaires de jeu. Architecture multiservice : API REST, authentification, base de données, temps réel. Projet d'équipe de 7. **Mon rôle :** file d'attente des messages hors ligne, départ d'un salon, présence en ligne après reconnexion, consentement de la collecte d'erreurs, version 2.1.0 ; côté serveur, API (invitations, départ d'un salon), bus d'événements (modification et suppression de messages, présence en ligne) et publication des versions du service d'authentification. | Electron · React · TypeScript · Laravel · Rust · MariaDB · Redis · Docker |
 | **Lecteur de playlist** | Application C# structurée en modèle-vue-contrôleur, issue d'un travail de refactorisation. | C# · .NET · MVC |
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GalileeWandji11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalileeWandji11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Langages" />
-
-</div>
-
 ---
 
 <div align="center">
