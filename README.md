@@ -38,7 +38,7 @@
 |---|---|---|
 | [**exoStarCraft**](https://github.com/GalileeWandji11/exoStarCraft) | Exercice de programmation orientée objet inspiré de StarCraft | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square) |
 | [**Ecole2**](https://github.com/GalileeWandji11/Ecole2) | Exercices formatifs de programmation | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) |
-| [**exo3_linux**](https://github.com/GalileeWandji11/exo3_linux) | Scripts et exercices Linux | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square) |
+| [**exo3_linux**](https://github.com/GalileeWandji11/exo3_linux) | Dotfiles Linux : configuration bash, git et vim + script d'installation | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square) |
 | [**demo_git**](https://github.com/GalileeWandji11/demo_git) | Démonstration des bases de Git et GitHub | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square) |
 
 ## 📊 Statistiques GitHub
